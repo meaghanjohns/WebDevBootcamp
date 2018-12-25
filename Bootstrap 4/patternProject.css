@@ -1,0 +1,21 @@
+html {
+	width: 100%;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.jumbotron {
+	background-image: url(header.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+.card {
+	width: 18rem;
+}
