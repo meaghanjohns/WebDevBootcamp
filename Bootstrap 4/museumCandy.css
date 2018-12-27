@@ -1,0 +1,61 @@
+body {
+    background-color: #F4CEDC;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.navbar-light .navbar-brand {
+	color: #D70E53;
+	font-size: 1.5rem;
+	font-weight: 200;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #ffffff;
+	font-size: 1.5rem;
+	font-weight: 200;
+}
+
+.museum-title span,
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #D70E53;
+}
+
+.navbar.scrolled {
+	background-color: #E4BEE0;
+	transition: background 500ms;
+}
+
+.museum-title {
+	font-weight: 200;
+	font-size: 3.5rem;
+	line-height: .9;
+}
+
+@media (max-width: 1200px) {
+	.museum-title {
+		font-size: 2.5rem;
+	}
+}
+
+@media (max-width: 900px) {
+	.museum-title {
+		font-size: 2rem;
+	}
+}
+
+.museum-content h3 {
+	color: #D70E53;
+	font-weight: 300;
+}
+
+.museum-content p {
+	color: #D70E53;
+	font-size: 1.125rem;
+	font-weight: 200;
+	line-height: 2;
+}
