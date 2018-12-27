@@ -14,6 +14,10 @@ body {
 	font-weight: 200;
 }
 
+.navbar-light .navbar-brand:hover {
+	color: #ffffff;
+}
+
 .navbar-light .navbar-nav .nav-link {
 	color: #ffffff;
 	font-size: 1.5rem;
