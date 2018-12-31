@@ -1,2 +1,2 @@
 # WebDevBootcamp
-A repository for code developed through Udemy's The Web Developer Bootcamp course.
+A repository for code developed through Colt Steele's <a href="https://www.udemy.com/the-web-developer-bootcamp/">The Web Developer Bootcamp</a> course.
