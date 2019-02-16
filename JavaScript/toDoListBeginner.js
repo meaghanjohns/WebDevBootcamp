@@ -22,7 +22,7 @@
 // 	};
 // }, 500);
 
-// Revised code after watching the code-along video is below.
+// Refactored code after watching the code-along video is below.
 
 var toDoList = [];
 
